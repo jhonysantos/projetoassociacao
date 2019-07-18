@@ -23,6 +23,27 @@
 				</div>
 			</div>
 		</div>
+		<div class="tituloassociacao">
+			<div class="logo">
+				<img src="assets/images/logo.png" />
+			</div>
+			<div class="nomeassociacao">
+				ASSOCIAÇÃO PROGRESSO DOS PEQUENOS<br/> PRODUTORES RURAIS DO PA PRESIDENTE MUNICÍPIO DE<br/> SANTA TEREZINHA-MT
+			</div>			
+		</div>
+		<br/>
+		<div class="menu">
+			<nav>
+				<ul>
+					<li><a href="index.php">HOME</a></li>
+					<li><a href="">PROJETOS</a></li>
+					<li><a href="">EVENTOS</a></li>
+					<li><a href="">NOTÍCIAS</a></li>
+					<li><a href="">PARTICIPE</a></li>
+					<li><a href="">ESTATUTO</a></li>
+				</ul>
+			</nav>			
+		</div>
 	</header>
 </body>
 </html>

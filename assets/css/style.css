@@ -26,3 +26,50 @@ body{
 	margin-right:10px;
 	font-size: 20px;
 }
+.tituloassociacao{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.logo{
+	margin-top: 0px;
+}
+.nomeassociacao{
+	font-weight: bolder;
+	margin-top: 20px;
+	margin-left: 40px;
+	text-align: center;
+}
+nav ul,
+nav li{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+nav ul{
+	display: flex;
+}
+.menu{
+	display: flex;
+	justify-content: center;
+}
+nav a{
+	display: block;
+	padding: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	text-decoration:none;
+	text-transform: uppercase;
+	color: #000000;
+	border-top-width: 1px;
+	border-top-style: double;
+	border-top-color: #A6A6A6;
+	border-bottom-width: 1px;
+	border-bottom-style: double;
+	border-bottom-color: #A6A6A6;
+}
+nav .active a,
+nav a:hover{
+	background-color:#00014D;
+	color: #FFFFFF;
+}
