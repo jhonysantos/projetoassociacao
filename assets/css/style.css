@@ -11,6 +11,7 @@ nav ul{
 	display: flex;
 }
 .containermenu{
+	background-image: url('../images/corpo.png');
 	border-top-width: 1px;
 	border-top-style: double;
 	border-top-color: #FFFFFF;
@@ -39,11 +40,28 @@ nav a:hover{
 	background-color:#F8F8F8;
 	color: #000000;
 }
-.corpo{
-	height: 450px;
+.containercorpo{
+	margin-top: 20%
 }
-footer {
+.footerindex {
+	background-image: url('../images/corpo.png');
     position:absolute;
+    bottom:0;
+    width:100%;
+    color: #FFFFFF;
+    height: 30px;
+    text-align: center;
+}
+.containerprojeto{
+	background-image: url('../images/corpo.png');
+	color: #FFFFFF;
+	margin-bottom: 20px;
+}
+.tituloprojeto{
+	text-align: center;
+}
+footer  {
+    position:relative;
     bottom:0;
     width:100%;
     color: #FFFFFF;
