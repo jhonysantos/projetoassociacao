@@ -37,19 +37,21 @@
 			<br/>
 			<div class="row justify-content-center">
 				<div class="col-11">
-					<a href="index.html"><img src="assets/images/titulo.png" class="img-fluid rounded mx-auto d-block" /></a><br/>
+					<a href="index.php"><img src="assets/images/titulo.png" class="img-fluid rounded mx-auto d-block" /></a>
 				</div>
-				<div class="col">ENTRAR</div>
+				<div class="col-1">
+					<button type="button" class="btn btn-outline-light">ENTRAR</button>
+				</div>
 			</div>
 			<br/>
 			<div class="containermenu">
 				<div class=" row menu justify-content-center">
 					<nav>
 						<ul>
-							<li class="col"><a href="index.html">HOME</a></li>
-							<li class="col"><a href="projetos.html">PROJETOS</a></li>
-							<li class="col"><a href="galeria.html">GALERIA</a></li>
-							<li class="col"><a href="">ESTATUTO</a></li>
+							<li class="col"><a href="index.php">HOME</a></li>
+							<li class="col"><a href="projetos.php">PROJETOS</a></li>
+							<li class="col"><a href="galeria.php">GALERIA</a></li>
+							<li class="col"><a href="estatuto.php">ESTATUTO</a></li>
 							<li class="col-3"><a href="">SEJA MEMBRO</a></li>
 						</ul>
 					</nav>

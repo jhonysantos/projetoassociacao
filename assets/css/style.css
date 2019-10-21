@@ -57,9 +57,25 @@ nav a:hover{
 	color: #FFFFFF;
 	margin-bottom: 20px;
 }
+.containerestatuto{
+	background-image: url('../images/corpo.png');
+	color: #FFFFFF;
+	margin-bottom: 20px;
+	text-align: justify;
+}
 .tituloprojeto{
 	text-align: center;
 }
+.tituloestatuto{
+	text-align: center;
+}
+ul.romanomaiusculo{
+	list-style-type: upper-roman;
+}
+.containerestatuto a{
+	text-decoration: none;
+	color: #FFFFFF;
+	}
 footer  {
     position:relative;
     bottom:0;
@@ -102,6 +118,6 @@ padding-right: 1.1rem;
 }
 
 button{
-	margin-top: 5px;
+	margin-top: 10px;
 	margin-right: 10px;
 }
