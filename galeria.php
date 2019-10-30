@@ -23,12 +23,12 @@
 		  animation: 'random',
 		  animationDuration: 25000,
 	    slides: [
-	        { src: "assets/images/imagem1.jpg" },
-	        { src: "assets/images/imagem6.jpg" },
-	        { src: "assets/images/imagem10.jpg" },
-	        { src: "assets/images/imagem12.jpg" },
-	        { src: "assets/images/imagem19.jpg" },
-	        { src: "assets/images/imagem20.jpg" }
+	        { src: "assets/images/bk01.JPG" },
+	        { src: "assets/images/bk02.JPG" },
+	        { src: "assets/images/bk03.JPG" },
+	        { src: "assets/images/bk04.JPG" },
+	        { src: "assets/images/bk05.JPG" },
+	        { src: "assets/images/bk06.JPG" }
 	    ]
 		});
 	</script>
@@ -81,132 +81,132 @@
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 1">
-				    <img class="img-fluid" src="assets/images/imagem1.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem1.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 1">
-				    <img class="img-fluid" src="assets/images/imagem2.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem2.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 1">
-				    <img class="img-fluid" src="assets/images/imagem3.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem3.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 1">
-				    <img class="img-fluid" src="assets/images/imagem4.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem4.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 1">
-				    <img class="img-fluid" src="assets/images/imagem4.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem4.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 1">
-				    <img class="img-fluid" src="assets/images/imagem5.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem5.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 1">
-				    <img class="img-fluid" src="assets/images/imagem6.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem6.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 1">
-				    <img class="img-fluid" src="assets/images/imagem7.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem7.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 1">
-				    <img class="img-fluid" src="assets/images/imagem8.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem8.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 1">
-				    <img class="img-fluid" src="assets/images/imagem9.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem9.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 2">
-				    <img class="img-fluid" src="assets/images/imagem10.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem10.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 2">
-				    <img class="img-fluid" src="assets/images/imagem11.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem11.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 2">
-				    <img class="img-fluid" src="assets/images/imagem12.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem12.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 2">
-				    <img class="img-fluid" src="assets/images/imagem13.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem13.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 2">
-				    <img class="img-fluid" src="assets/images/imagem14.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem14.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 2">
-				    <img class="img-fluid" src="assets/images/imagem15.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem15.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 2">
-				    <img class="img-fluid" src="assets/images/imagem16.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem16.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 2">
-				    <img class="img-fluid" src="assets/images/imagem17.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem17.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 2">
-				    <img class="img-fluid" src="assets/images/imagem18.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem18.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 2">
-				    <img class="img-fluid" src="assets/images/imagem19.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem19.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 2">
-				    <img class="img-fluid" src="assets/images/imagem20.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem20.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 
 				  <!-- Grid column -->
 				  <div class="mb-3 pics animation all 2">
-				    <img class="img-fluid" src="assets/images/imagem21.jpg" alt="Card image cap">
+				    <img class="img-fluid" src="assets/images/imagem21.JPG" alt="Card image cap">
 				  </div>
 				  <!-- Grid column -->
 

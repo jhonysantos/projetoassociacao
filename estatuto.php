@@ -22,12 +22,12 @@
 		  animation: 'random',
 		  animationDuration: 25000,
 	    slides: [
-	        { src: "assets/images/imagem1.jpg" },
-	        { src: "assets/images/imagem6.jpg" },
-	        { src: "assets/images/imagem10.jpg" },
-	        { src: "assets/images/imagem12.jpg" },
-	        { src: "assets/images/imagem19.jpg" },
-	        { src: "assets/images/imagem20.jpg" }
+	        { src: "assets/images/bk01.JPG" },
+	        { src: "assets/images/bk02.JPG" },
+	        { src: "assets/images/bk03.JPG" },
+	        { src: "assets/images/bk04.JPG" },
+	        { src: "assets/images/bk05.JPG" },
+	        { src: "assets/images/bk06.JPG" }
 	    ]
 		});
 	</script>
