@@ -58,45 +58,26 @@
 				</div>
 			</div>			
 		</header><br/><br/>
-		<div class="containerprojeto container-fluid ">
-			<div class="projetomaquinario">
-				<div class="tituloprojeto">
-					<h2>PROJETO MECANIZAÇÃO E PRODUÇÃO:</h2>
-					<h4>PARA O HOMEM NO CAMPO DAS COMUNIDADES RURAIS DO P. A PRESIDENTE</h4>
-					<br/>
+		<div class="containerestatuto container-fluid ">
+			<div class="associado">
+				<div class="titulosejamembro">
+					<h2>SEJA UM ASSOCIADO</h2>
+					<h6>Escolha abaixo o tipo de associação que deseja fazer.<br/>
+						A diferença entre eles é na periodicidade da cobrança.</h6>
+					<br/><br/>
 				</div>
-				<div class="conteudoprojeto">
-					<h4>Objetivo Geral</h4>
-					Contribuir na construção de um conjunto de ações e ideia que ajuda no
-					desenvolvimento territorial do assentamento. Nesse contexto apoiar o desenvolvimento
-					sustentável no Município é uma forma de ajudar nas condições Produtivas da
-					Agricultura Familiar das famílias que vivem do campo.<br/><br/>
+				<div class="conteudosejamembro justify-content-around">
+					<div class="planoassociado border">
+						<h4>Pagamento Mensal</h4> <h6>renovação automatica</h6>
+						R$10,00/mês + taxa de R$50,00 <br/>na adesão do plano.
+					</div>
+					<div class="planoassociado border">
+						<h4>Pagamento Anual</h4> <h6>renovação automatica</h6>
+						R$120,00/mês + taxa de R$50,00 na adesão do plano.
+					</div>
 
-					<h4>Objetivos específicos</h4>
-					<ul>
-						<li>Adesão de maquinários;</li>
-						<li>Mecanização da terra;</li>
-						<li>Recuperação de solo;</li>
-						<li>Organização da cadeia produtiva do leite;</li>
-						<li>Organização da cadeia de fruticultura;</li>
-						<li>Organização da cadeia produtiva do processamento de mandioca;</li>
-						<li>Incentivo na apicultura.</li>
-					</ul><br/>
-
-					<h4>Resultados esperados</h4>
-					Ao concluir o Projeto espera-se que o problema de mecanização e recuperação
-					do solo promova a estimulação da comunidade assistida pela P.A Presidente sob a
-					temática discutida e requerida a secretaria de agricultura familiar, Órgão competente do
-					Governo de Mato Grosso. A credita-se que a escola são João como parceira na
-					contribuição de informações busca:<br/><br/>
-					<ul>
-						<li>Melhor produção de alimentos dentro do assentamento;</li>
-						<li>O aumento da renda familiar com técnica de preservação do solo;</li>
-						<li>Recuperação do solo;</li>
-						<li>Adesão de maquinários como alternativa de produção;</li>
-						<li>Permanência do homem no campo.</li>
-					</ul><br/><br/>
 				</div>
+				<br/><br/>
 			</div>
 			<footer>Criado por Comunic Tecnologia</footer>
 		</div>

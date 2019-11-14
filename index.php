@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-	<title>Teste</title>
+	<title>Associação</title>
 	<meta name="viewport" content="whidth=device-width, initial-scale=1,shrimk-to-fit=no" />
 	<link rel="stylesheet" type="text/css" href="assets/css/vegas.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
@@ -35,13 +35,13 @@
 	<div class="container-fluid">
 		<header>
 			<br/>
-			<div class="row justify-content-center">
-				<div class="col-11">
-					<a href="index.php"><img src="assets/images/titulo.png" class="img-fluid rounded mx-auto d-block" /></a>
-				</div>
-				<div class="col-1">
-					<button type="button" class="btn btn-outline-light">ENTRAR</button>
-				</div>
+			<div class="cabecalho">
+					<div class="botaoentrar">
+						<button type="button" class="btn btn-outline-light">ENTRAR</button>
+					</div>
+					<div class="titulo">
+						<a href="index.php"><img src="assets/images/titulo.png" class="img-fluid rounded mx-auto d-block" /></a>
+					</div>	
 			</div>
 			<br/>
 			<div class="containermenu">
@@ -52,7 +52,7 @@
 							<li class="col"><a href="projetos.php">PROJETOS</a></li>
 							<li class="col"><a href="galeria.php">GALERIA</a></li>
 							<li class="col"><a href="estatuto.php">ESTATUTO</a></li>
-							<li class="col-3"><a href="">SEJA MEMBRO</a></li>
+							<li class="col-3"><a href="sejamembro.php">SEJA MEMBRO</a></li>
 						</ul>
 					</nav>
 				</div>
