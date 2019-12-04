@@ -10,6 +10,17 @@
 	<script type="text/javascript" src="assets/js/jquery.min.js"></script>
 	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="assets/js/vegas.min.js"></script>
+	<script type="text/javascript">
+		window.onload = function () {
+		document.querySelector(".menumobile").addEventListener("click", function(){
+		if(document.querySelector(".menu nav ul").style.display == 'flex'){
+			document.querySelector(".menu nav ul").style.display = 'none';
+		} else{
+			document.querySelector(".menu nav ul").style.display = 'flex';
+		}
+		});
+	};
+	</script>
 </head>
 <body >
 	<script>
@@ -36,27 +47,29 @@
 		<header>
 			<br/>
 			<div class="cabecalho">
-					<div class="botaoentrar">
-						<button type="button" class="btn btn-outline-light">ENTRAR</button>
-					</div>
-					<div class="titulo">
+				<div class="titulo">
 						<a href="index.php"><img src="assets/images/titulo.png" class="img-fluid rounded mx-auto d-block" /></a>
-					</div>	
-			</div>
-			<br/>
-			<div class="containermenu">
-				<div class=" row menu justify-content-center">
-					<nav>
-						<ul>
-							<li class="col"><a href="index.php">HOME</a></li>
-							<li class="col"><a href="projetos.php">PROJETOS</a></li>
-							<li class="col"><a href="galeria.php">GALERIA</a></li>
-							<li class="col"><a href="estatuto.php">ESTATUTO</a></li>
-							<li class="col-3"><a href="sejamembro.php">SEJA MEMBRO</a></li>
-						</ul>
-					</nav>
+				</div>	
+					
+				<div class="menumobile">
+					<img src="assets/images/menu.png" />
 				</div>
-			</div>			
+				<br/>
+			</div>
+				<div class="containermenu">
+					<div class=" row menu justify-content-center">
+						<nav>
+							<ul>
+								<li class="col"><a href="index.php">HOME</a></li>
+								<li class="col"><a href="projetos.php">PROJETOS</a></li>
+								<li class="col"><a href="galeria.php">GALERIA</a></li>
+								<li class="col"><a href="estatuto.php">ESTATUTO</a></li>
+								<li class="col"><a href="sejamembro.php">ASSOCIADO</a></li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+					
 		</header><br/><br/>
 		<div class="containerprojeto container-fluid ">
 			<div class="projetomaquinario">

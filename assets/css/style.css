@@ -99,6 +99,15 @@ footer  {
     height: 40px;
     text-align: center;
 }
+.menumobile{
+	display: none;
+	width: 40px;
+	height: 40px;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+
+
 .gallery {
 -webkit-column-count: 3;
 -moz-column-count: 3;
@@ -137,14 +146,57 @@ button{
 	margin-right: 10px;
 }
 
-@media only screen and (max-width:768px){
+@media only screen and (max-width:950px){
 
 	.cabecalho{
 		display: flex;
-		align-items: center;
+		align-items: flex-start;
+		flex-direction: row;
+	}
+	
+	nav ul{
 		flex-direction: column;
+		display:none;
 	}
 	.containermenu{
-		display: none;
+		margin-top: 10px;
+	}
+
+	header{
+		height: auto;
+	}
+	.menumobile{
+		display: block;
+		margin-left: 100px;
+	}
+	.containercorpo{
+	margin-top: 30%
+	}
+}
+@media only screen and (min-width: 425px) and (max-width:950px){
+	.menumobile{
+		display: block;
+		margin-left: 40px;
+	}
+	.containercorpo{
+	margin-top: 50%
+	}
+}
+@media only screen and (min-width: 375px) and (max-width:425px){
+	.menumobile{
+		display: block;
+		margin-left: 20px;
+	}
+	.containercorpo{
+	margin-top: 80%
+	}
+}
+@media only screen and (min-width: 320px) and (max-width:375px){
+	.menumobile{
+		display: block;
+		margin-left: 10px;
+	}
+	.containercorpo{
+	margin-top: 90%
 	}
 }
