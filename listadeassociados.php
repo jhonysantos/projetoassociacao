@@ -1,7 +1,6 @@
 <?php
 require 'config.php';
 session_start();
-
 ?>
 <!DOCTYPE html>
 <html>
@@ -20,17 +19,19 @@ session_start();
     <body>
     <br/><br/>
         <div class="container  botao card">
-            <div class="row justify-content-around align-items-center">
-                <div class="col-4">
-                    <a href="cadastroassociado.php" class="btn btn-secondary">Cadastro de Associados</a>
-                </div>
-                <div class="col-4">
-                    <a href="listadeassociados.php" class="btn btn-secondary">Lista de Associados</a>
-                </div>
-                <div class="col-4">
-                    <a href="cadastrofuncionario.php" class="btn btn-secondary">Cadastro de funcionário</a>
-                </div>
-            </div>
+        <br/>
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Associado</th>
+                        <th>Telefone</th>
+                        <th>E-mail</th>
+                        <th>Plano</th>
+                    </tr>
+                </thead>
+            </table>
+            <a href="sistema.php" class="btn btn-danger">Voltar</a>
+            <br/>
         </div>
     </body>
 </html>

@@ -10,9 +10,7 @@ nav li{
 nav ul{
 	display: flex;
 }
-.botaoentrar{
-	float: right;
-}
+
 .containermenu{
 	background-image: url('../images/corpo.png');
 	border-top-width: 1px;
@@ -131,6 +129,13 @@ transition: all 350ms ease; }
 -webkit-transform: scale(1);
 -ms-transform: scale(1);
 transform: scale(1); }
+
+.botao .row{
+	height:300px;
+	text-align: center;
+	margin: 10%;
+}
+
 
 @media (max-width: 450px) {
 	.gallery {
